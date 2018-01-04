@@ -1,0 +1,4 @@
+TEST
+TEST2- for del
+test2
+test 2 add
